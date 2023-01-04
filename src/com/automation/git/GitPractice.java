@@ -3,13 +3,8 @@ package com.automation.git;
 public class GitPractice {
 
 	public static void main(String[] args) {
-		int a=10;
-		int b=20;
-		a=a+b;
-		b=a-b;
-		a=a-b;
-		System.out.println(a);
-		System.out.println(b);
+	System.out.println("master");
+	System.out.println("login");
 
 	}
 
